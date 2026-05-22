@@ -1,7 +1,5 @@
 # computer-vision-cifar10-lab
 Image classifier using ResNet18 transfer learning on CIFAR-10
-# Replace this entire README with the markdown below:
- 
 # CIFAR-10 Mini Image Classifier
 ## Transfer Learning with ResNet18 and PyTorch
  
